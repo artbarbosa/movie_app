@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-
 import 'pages/home_page.dart';
 
 class AppWidget extends StatelessWidget {
@@ -13,4 +12,3 @@ class AppWidget extends StatelessWidget {
     );
   }
 }
-
